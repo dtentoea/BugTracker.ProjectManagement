@@ -9,5 +9,9 @@ Store your projects inside the application and review the tickets on each projec
 
 
 
-https://user-images.githubusercontent.com/98243385/152144592-f84e6601-cd3a-455b-8e5d-764e372ac684.mp4
+
+
+https://user-images.githubusercontent.com/98243385/152381168-8a19aa3a-99f6-45c1-af5d-abf3e60a1db5.mp4
+
+
 
