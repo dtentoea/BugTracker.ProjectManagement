@@ -5,7 +5,7 @@ Store your projects inside the application and review the tickets on each projec
 # NEXT UPDATE:
 - OOP 
 - Multi layer architecture 
-
+- CRUD Functionality
 
 
 
